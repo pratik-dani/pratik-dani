@@ -10,7 +10,7 @@ I am a passionate software developer with a keen interest in open-source project
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with advanced AI algorithms.
 - 💬 Ask me about anything related to web development, cloud computing, and software engineering.
-- 📫 How to reach me: [Email](mailto:pratik.dani@example.com) | [LinkedIn](https://www.linkedin.com/in/pratik-dani/)
+- 📫 How to reach me: [Email](mailto:pd@datamagnet.co) | [LinkedIn](https://www.linkedin.com/in/pratik-dani/)
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
 ## 🛠️ Technologies & Tools
